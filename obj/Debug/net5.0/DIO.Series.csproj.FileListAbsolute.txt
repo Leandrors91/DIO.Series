@@ -1,0 +1,16 @@
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/leandro/projetos/dio/dotnet/proj1/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
